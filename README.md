@@ -9,12 +9,16 @@ Send a video from your Android phone to your Android TV, and the TV plays it **b
 you can put your phone away.
 
 <p>
+  <img src="screenshots/tv-home.png" width="49%" alt="TV home with Continue watching and Watched">
+  <img src="screenshots/tv-controls.png" width="49%" alt="Player controls">
+</p>
+<p>
   <img src="screenshots/tv-player.png" width="49%" alt="A video playing on the TV with subtitles">
   <img src="screenshots/tv-next-episode.png" width="49%" alt="Next episode starts automatically">
 </p>
 <p>
   <img src="screenshots/phone-browser.png" width="24%" alt="The built-in browser finds the video">
-  <img src="screenshots/phone-send.png" width="24%" alt="Send it to the TV">
+  <img src="screenshots/phone-send.png" width="24%" alt="Send it to the TV or add it to the Watchlist">
   <img src="screenshots/phone-remote.png" width="24%" alt="Phone as a remote, with queue and subtitles">
   <img src="screenshots/phone-home.png" width="24%" alt="Home screen on the phone">
 </p>
@@ -31,14 +35,20 @@ You can also use **Share → Play on TV** from other apps.
 
 ## What it does
 - 🔎 Finds the video on a web page for you
+- 📺 **Watchlist** on the TV: *Continue watching* and *Watched*, with posters — just the TV remote, no phone needed
 - 📋 Queue, and plays the **next episode** automatically
 - ⏯ Resumes where you stopped, best quality by default
 - 💬 Subtitles: from the video, the website, or OpenSubtitles
 - 🎮 Your phone works as a remote
+- 🔖 Bookmarks in the phone's browser
 - 🔒 Private: pairing code, encrypted DNS, ad blocking, no history
 - ⬆ Updates itself from this page
 
-<p><img src="screenshots/tv-home.png" width="60%" alt="The app on the TV"></p>
+## Notes
+- **Watchlist links can expire.** Most sites keep their episode pages working, but temporary video links
+  (for example from apps like Aniyomi) can stop working after a while. Those show *⚠ link may expire*.
+  If one doesn't play anymore, send it again from your phone and the Watchlist entry is updated.
+- DRM services (Netflix, Disney+, …) can't be played this way.
 
 ---
-<sub>Screenshots show *Big Buck Bunny* (© Blender Foundation, CC BY 3.0). Only use the app for content you have the right to watch.</sub>
+<sub>Screenshots show *Big Buck Bunny*, *Elephants Dream* and *Sintel* (© Blender Foundation, CC BY). Only use the app for content you have the right to watch.</sub>

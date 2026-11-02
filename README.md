@@ -48,6 +48,9 @@ You can also use **Share → Play on TV** from other apps.
 - **Watchlist links can expire.** Most sites keep their episode pages working, but temporary video links
   (for example from apps like Aniyomi) can stop working after a while. Those show *⚠ link may expire*.
   If one doesn't play anymore, send it again from your phone and the Watchlist entry is updated.
+- **Power:** on the TV only a tiny receiver waits for your phone (no measurable CPU when idle).
+  When you switch to another app, nothing keeps loading; a paused video is freed after 5 minutes and
+  continues from the same spot. The TV can go to sleep while a video is paused.
 - DRM services (Netflix, Disney+, …) can't be played this way.
 
 ---
